@@ -1,0 +1,15 @@
+4.	Using Big Oh notation, indicate the time requirement of each of the following tasks in the worst case. Describe any assumptions that you make.
+a. After arriving at a party, you shake hands with each person there.
+O(n)
+b. Each person in a room shakes hands with everyone else in the room.
+O(n^2)
+c. You climb a flight of stairs.
+O(n)
+d. You slide down the banister.
+O(1)
+e. After entering an elevator, you press a button to choose a floor.
+O(1)
+f. You ride the elevator from the ground floor up to the nth floor.
+O(n)
+g. You read a book twice.
+O(n) * 2
